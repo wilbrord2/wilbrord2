@@ -28,4 +28,4 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbrord2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habinezajanvier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
