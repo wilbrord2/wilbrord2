@@ -9,11 +9,14 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 - 💻 I’m currently learning Python
 - </> I’m looking to collaborate on any web development project
 
-  ## Reach me out📱
-  email: bwilbrord@gmail.com
-  Linkedin: https://www.linkedin.com/in/wilbrord-ibyimana-120935221/
 
- Top Technology
+### Reach me out📱
+
+  * Email: bwilbrord@gmail.com
+  * Linkedin: https://www.linkedin.com/in/wilbrord-ibyimana-120935221/
+
+
+### Top Technology
  
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,5 +25,3 @@ solutions. Let's connect and explore how my skills can contribute to your compan
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
-
