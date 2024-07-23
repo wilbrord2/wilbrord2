@@ -12,8 +12,8 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 
 ### Reach me out📱
 
-  * Email: bwilbrord@gmail.com
-  * Linkedin: https://www.linkedin.com/in/wilbrord-ibyimana-120935221/
+  * #### [Email](bwilbrord@gmail.com)
+  * #### [Linkedin](https://www.linkedin.com/in/wilbrord-ibyimana-120935221/)
 
 
 ### Top Technology
@@ -27,7 +27,7 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 </div>
 
 ### Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wilbrord2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=dark#gh-dark-mode-only)](#)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=default#gh-light-mode-only)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbrord2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbrord2&layout=compact&theme=vision-friendly-dark)](#)
