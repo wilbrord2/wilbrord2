@@ -28,6 +28,5 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 
 ### Github Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=dark#gh-dark-mode-only)](#)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=default#gh-light-mode-only)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbrord2&layout=compact&theme=vision-friendly-dark)](#)
