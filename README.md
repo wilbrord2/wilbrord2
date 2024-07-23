@@ -27,6 +27,6 @@ solutions. Let's connect and explore how my skills can contribute to your compan
 </div>
 
 ### Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Wilbrord2&show_icons=true&theme=dark#gh-dark-mode-only)](#)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wilbrord2&show_icons=true&theme=dark#gh-dark-mode-only)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbrord2&layout=compact&theme=vision-friendly-dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbrord2&layout=compact&theme=vision-friendly-dark)](#)
