@@ -1,13 +1,13 @@
 ## Hello, I am Wilbrord 👋
 
-I am a highly skilled full-stack developer with 4+ years of experience in software development, known for my ability to
+I am a highly skilled frontend developer with 3+ years of experience in software development, known for my ability to
 engineer scalable server-side applications and design user-centric UIs. My dedication to continuous improvement and
 prioritizing user privacy has consistently enhanced application performance and reliability. I am eager to bring my
 proven software development and management expertise to a dynamic team, driving impactful projects and innovative
 solutions. Let's connect and explore how my skills can contribute to your company's success.
 
-- 💻 I’m currently learning Python
-- </> I’m looking to collaborate on any web development project
+- 💻 I’m currently learning React Native
+- </> I’m looking to collaborate on any web and mobile development project
 
 
 ### Reach me out📱
